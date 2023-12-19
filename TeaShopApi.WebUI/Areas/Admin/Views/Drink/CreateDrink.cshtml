@@ -1,0 +1,20 @@
+﻿@model CreateDrinkDto
+@{
+    ViewData["Title"] = "CreateDrink";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<form method="post">
+    <label>İçecek Adı</label>
+    <input type="text" class="form-control" asp-for="drinkName" />
+    <br />
+    <label>İçecek Fiyatı</label>
+    <input type="text" class="form-control" asp-for="drinkPrice" />
+    <br />
+    <label>İçecek Resmi</label>
+    <input type="text" class="form-control" asp-for="drinkImageUrl" />
+    <br />
+    <button class="btn btn-primary">İçecek Ekle</button>
+</form>

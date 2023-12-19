@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_DefaultLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    @await Html.PartialAsync("~/Views/Default/_TestOfTeaPartial.cshtml")
+
+    @await Component.InvokeAsync("_AboutListComponentPartial")
+    <!-- about section end -->
+    <!-- booking section start -->
+    <div class="booking_section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 class="booking_taital">Şimdi Tat!</h1>
+                    <p class="booking_text">Çok ama çok lezzetli içecekler sizlerle...</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="booking_bt"><a href="#">HEMEN TADIN!</a></div>
+                </div>
+            </div>
+        </div>      
+    </div>
+    <!-- booking section end -->
+    <!-- services section start -->
+    @await Component.InvokeAsync("_DrinkListComponentPartial")
+    <!-- services section end -->
+    <!-- choose section start -->
+    @await Html.PartialAsync("~/Views/Default/_WhyChoosePartial.cshtml")
+    <!-- choose section end -->
+    <!-- shop section start -->
+    @await Html.PartialAsync("~/Views/Default/_OurTeaShopPartial.cshtml")
+    <!-- shop section end -->
+    <!-- frequently section start -->
+   
+    @await Component.InvokeAsync("_QuestionListComponentPartial")
+    <!-- frequently section end -->
+    <!-- clients section start -->
+    @await Component.InvokeAsync("_TestimonialListComponentPartial")
+    <!-- clients section end -->
+    <!-- contact section start -->
+    @await Component.InvokeAsync("_ContactDefaultComponentPartial")
+
+</body>  
+</html>
+
