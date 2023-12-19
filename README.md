@@ -38,7 +38,8 @@ Jquerry Ve Javascript: Tasarımlarda ve backend kısmının ufak bir bölümünd
 
 ![Ekran görüntüsü 2023-12-19 130219](https://github.com/KeremD22/TeaShopApi/assets/126280188/a9046869-97fa-4914-8a4d-0f99be33bfda)
 
-![Ekran görüntüsü 2023-12-19 130213](https://github.com/KeremD22/TeaShopApi/assets/126280188/7b4f9343-1734-432f-8fa4-2fb4e0be8d![Ekran görüntüsü 2023-12-19 130229](https://github.com/KeremD22/TeaShopApi/assets/126280188/661ed303-6a69-49a3-90ac-943781f379e4)
+![Ekran görüntüsü 2023-12-19 130213](https://github.com/KeremD22/TeaShopApi/assets/126280188/7b4f9343-1734-432f-8fa4-2fb4e0be8d![Ekran görüntüsü 2023-12-19 130229]
+(https://github.com/KeremD22/TeaShopApi/assets/126280188/661ed303-6a69-49a3-90ac-943781f379e4)
 77)
 
 ![Ekran görüntüsü 2023-12-19 130235](https://github.com/KeremD22/TeaShopApi/assets/126280188/2812d2cd-31c9-4637-9167-8ea954bb6f52)
