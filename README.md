@@ -1,9 +1,9 @@
-#THE MENU with ASP.NET CORE 6.0 && API 
+# THE MENU with ASP.NET CORE 6.0 && API 
 
 Bu proje API teknolojisi,.Net Core 6.0 kullanılarak yapılmıştır.
 Projede Identity teknolojisi kullanılarak Login ve Register işlemleri yapılmıştır.
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 ASP.NET: Web uygulamasının temel çerçevesi olarak kullanıldı.
 
@@ -27,7 +27,7 @@ Bootstrap: Projenin tasarım kısmında bootstrap kütüphanesini fazlasıyla ku
 
 Jquerry Ve Javascript: Tasarımlarda ve backend kısmının ufak bir bölümünde javascript ve jquerry kullandım.
 
-#THE MENU some Screen Shots
+# THE MENU some Screen Shots
 ![Ekran görüntüsü 2023-12-19 133505](https://github.com/KeremD22/TeaShopApi/assets/126280188/14a54df1-74e1-43c1-a61a-f8ccad76760b)
 ![Ekran görüntüsü 2023-12-19 133732](https://github.com/KeremD22/TeaShopApi/assets/126280188/57582bb3-0720-4056-b486-b08edd676f26)
 
