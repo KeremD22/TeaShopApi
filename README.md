@@ -49,6 +49,9 @@ Jquerry Ve Javascript: Tasarımlarda ve backend kısmının ufak bir bölümünd
 ![Ekran görüntüsü 2023-12-19 130319](https://github.com/KeremD22/TeaShopApi/assets/126280188/87d7d138-0ea9-452b-a912-b908de73c32f)
 ![Ekran görüntüsü 2023-12-19 130329](https://github.com/KeremD22/TeaShopApi/assets/126280188/4e31948a-27e6-4478-9bbd-95677cd827a2)
 ![Ekran görüntüsü 2023-12-19 130357](https://github.com/KeremD22/TeaShopApi/assets/126280188/95e0c5e6-2bd7-4b47-ab91-24e7057afa52)
+![Ekran görüntüsü 2023-12-19 135228](https://github.com/KeremD22/TeaShopApi/assets/126280188/6475da01-5c71-4ead-a0ae-2de3bebcdd2e)
+![Ekran görüntüsü 2023-12-19 135245](https://github.com/KeremD22/TeaShopApi/assets/126280188/23a2ba61-f7d9-4872-bed9-cf2fc19d95ae)
+![Ekran görüntüsü 2023-12-19 135254](https://github.com/KeremD22/TeaShopApi/assets/126280188/c2197039-21b5-465a-bea4-76dec3831342)
 
 # Kurulum
 1. Projeyi klonlayın: git clone https://github.com/sizin-kullanici-adi/sizin-proje-adiniz.git
